@@ -1,0 +1,12 @@
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\bin\Debug\login-register.exe.config
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\bin\Debug\login-register.exe
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\bin\Debug\login-register.pdb
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login-register.csprojAssemblyReference.cache
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login_register.Properties.Resources.resources
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login-register.csproj.GenerateResource.cache
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login-register.csproj.CoreCompileInputs.cache
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login-register.exe
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login-register.pdb
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login_register.Giriş.resources
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login_register.kayıt.resources
+C:\Users\ROZS\Desktop\login-register\login-register\login-register\obj\Debug\login_register.Oyun.resources
